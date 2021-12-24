@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **AWS**
 
-- 👨‍💻 All of my projects are available at [github.com/bibash2422](github.com/bibash2422)
+- 👨‍💻 All of my projects are available at [github.com/bibashjaprel](github.com/bibashjaprel)
 
 - 💬 Ask me about **any tech related stuff**
 
