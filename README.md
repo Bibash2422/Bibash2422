@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibashjaprel&label=Profile%20views&color=0e75b6&style=flat" alt="bibashjaprel" /> </p>
 
-- 🔭 I’m currently working on **UI/UX design**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Python**
 
